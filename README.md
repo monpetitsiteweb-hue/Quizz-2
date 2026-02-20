@@ -9,6 +9,11 @@ The objective of this project was to:
 - Manage user input and game logic
 - Push a project to GitHub
 
+This repository contains both:
+
+- quizz-2.ipynb (Jupyter Notebook version used during development)
+- quizz-2.py (Python script version that can be executed from the terminal)
+
 ---
 
 ## How the quiz works
